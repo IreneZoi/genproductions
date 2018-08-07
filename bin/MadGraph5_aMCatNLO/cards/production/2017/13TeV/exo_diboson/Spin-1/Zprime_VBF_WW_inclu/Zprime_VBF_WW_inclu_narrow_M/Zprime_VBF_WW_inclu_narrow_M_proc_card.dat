@@ -8,4 +8,3 @@ define vl~ = ve~ vm~ vt~
 define ferm = u c d s b u~ c~ d~ s~ b~ e- mu- ta- e+ mu+ ta+ vl vl~
 generate p p > vz j j $$ z w+ w- vz / g a h vc+ vc- , ( vz > w+ w- , w+ > ferm ferm , w- > ferm ferm )
 output Zprime_VBF_WW_inclu_narrow_M<MASS> -nojpeg
-
