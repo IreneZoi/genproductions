@@ -1,5 +1,7 @@
+#!/bin/bash
 
 masses=( 5000 5500 6000 6500 7000 7500 8000)
+
 sample=Wprime_WZ_WhadZhad_narrow_M
 
 postfix=(_run_card.dat _customizecards.dat _proc_card.dat _extramodels.dat)
